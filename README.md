@@ -7,7 +7,7 @@ Converter for Amiga jojstick (emulate mumpad) based on Arduino Leonardo or Micro
 - Arduino IDE (https://www.arduino.cc/en/Main/Software)
 - Arduino Leonardo (https://www.arduino.cc/en/Main/Arduino_BoardLeonardo) or Micro (https://store.arduino.cc/arduino-micro)
 - Microchip MEGA32U4 (http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-7766-8-bit-AVR-ATmega16U4-32U4_Datasheet.pdf)
-- Amiga jojstick connector (https://en.wikipedia.org/wiki/D-subminiature)
+- Amiga jojstick connector (https://en.wikipedia.org/wiki/Atari_joystick_port)
 # Used library
 - No external library requiered
 # Connection
